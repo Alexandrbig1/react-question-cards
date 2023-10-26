@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-question-cards/static/css/main.2a44faae.css",
+    "main.js": "/react-question-cards/static/js/main.c4fea365.js",
+    "index.html": "/react-question-cards/index.html",
+    "main.2a44faae.css.map": "/react-question-cards/static/css/main.2a44faae.css.map",
+    "main.c4fea365.js.map": "/react-question-cards/static/js/main.c4fea365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a44faae.css",
+    "static/js/main.c4fea365.js"
+  ]
+}
