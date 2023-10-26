@@ -1,4 +1,4 @@
-# **React** questions cards
+# **React question cards**
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 ## Project Specifications:
